@@ -1,8 +1,8 @@
-# Loan Qualifying App
+# Bitcoin present value
 
 
 
-Looking to find my own lenders, I compiled a csv file of possible loan options in the markets. This project automates a debtor's search for a loan they qualify for, and uses industry standards like income and loan-to-value ratio to do so.
+With graduates from youtube university with a degree in technical analysis at an all timehigh, I figure a hardcore, fundemental analysis appraoch to valuing the Bitcoin network might in fact shake things up a bit. I new word I learned is plaimbsest, this is that. 
  
 
 ---
@@ -10,7 +10,7 @@ Looking to find my own lenders, I compiled a csv file of possible loan options i
 ## Technologies
 
 
-Written in python 3.7, this app levredges modules from the libraries sys, fire, path and questionary to achieve its desired goals. sys functions as an event manager, it exits the app when necessary and directs the work flow to other modules when necessary conditions are met by the user. fire generates the command line interface, while the path library interprets file locations for the program to pull data from. Finally, the questionary library allows for dynamic coding of users input variables, and lets this app get specified data from the users. In the future, the Plaid API could be added to this project to add verification functionality of the users financial information.  
+Written in python 3.7, these calculations draw from data as a cleint of the Alpaca API and 
 
 ---
 
