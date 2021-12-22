@@ -26,6 +26,8 @@ On iOS, pip install pandas, AlpacaTradeAPI, json, and requests respectively
 ## Contributors
 
 Twitter- technoDiogenes
+
+
 LinkedIn- https://www.linkedin.com/in/david-ingraham-730066203/
 
 
